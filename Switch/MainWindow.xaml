@@ -47,7 +47,7 @@
 
     <Canvas Name="mainCanvas">
         <!-- Draw images of switch -->
-        <ToggleButton Name="switch" Template="{StaticResource SwitchTemplate}" 
+        <ToggleButton Name="switch" Template="{StaticResource SwitchTemplate}"  
                       Canvas.Left="150" Canvas.Top="100" />
 
         <!-- Draw images of lamp -->
